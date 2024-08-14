@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "enter number5"
+echo "enter number00"
 read a
 echo "enter number7"
 read b
