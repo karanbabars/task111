@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "enter number3"
-read a
 echo "enter number5"
+read a
+echo "enter number7"
 read b
 echo "enter operator (+-x/%):"
 read op
